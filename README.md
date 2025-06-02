@@ -1,4 +1,4 @@
-<h1 align="center">React + TypeScript + Vite Music App<br/>with Spotify Web API</h1>
+ <h1 align="center">React + TypeScript + Vite Music App<br/>with Spotify Web API</h1>
     
 <div align="center">
   <p>
@@ -13,7 +13,7 @@
     ·
     <a href="https://github.com/Valik3201/music-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Valik3201/music-app/issues">Request Feature</a>
+    <a href="https://github.com/Valik3201/music-app/issues">Request Feature</a>      
   </p>
 </div>
 
