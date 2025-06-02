@@ -40,7 +40,7 @@ This web application was developed as part of learning on the [Codecademy](https
 - **App Navigation**: Use of a sidebar menu to navigate between sections of the application, such as the home page, search, playlist creation, and viewing playlists, as well as a playlist with a list of favorite songs and other user playlists.
 - **Display Music Information**: Users can view detailed information about tracks, albums, and playlists, as well as add them to their playlists.
 
-### Future Features
+### Future Features   
 
 In addition to the current functionality, the following features are planned for development:
 
